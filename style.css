@@ -27,6 +27,7 @@ section{
     font-family: 'Work Sans', sans-serif;
     font-size: 60px;
     width: 500px;
+    
 }
 .rightLast{
     color: #ffff;
@@ -50,8 +51,8 @@ section{
  
 }
 .div1{
-    
     background-color:rgb(215,165,249,0.5);
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     color: rgb(255,255,255, 1);
     height: 180px;
     width: 200px;
@@ -60,12 +61,13 @@ section{
     justify-content: center;
     align-items: center;
     font-family: 'Work Sans', sans-serif;
-    border-radius: 2px;
+    
 }
 .div2{
     height: 50px;
     width: 200px;
     color: rgb(255,255,255, 1);
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     background-color: rgb(184,34,243,0.5);
     font-size: 40px;
     display: flex;
@@ -76,6 +78,7 @@ section{
 }
 .div3{
     background-color:rgb(215,165,249,0.5);
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     color: rgb(255,255,255, 1);
     height: 180px;
     width: 200px;
@@ -90,6 +93,7 @@ section{
     height: 50px;
     width: 200px;
     color: rgb(255,255,255, 1);
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     background-color: rgb(184,34,243,0.5);
     font-size: 40px;
     display: flex;
@@ -98,6 +102,7 @@ section{
     font-family: 'Work Sans', sans-serif;
 }
 .div5{
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     background-color:rgb(215,165,249,0.5);
     color: rgb(255,255,255, 1);
     height: 180px;
@@ -113,6 +118,7 @@ section{
     height: 50px;
     width: 200px;
     color: rgb(255,255,255, 1);
+    box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
     background-color: rgb(184,34,243,0.5);
     font-size: 40px;
     display: flex;
@@ -122,6 +128,7 @@ section{
 }
 .rightLast{
  background-color: rgb(106,50,159, 0.7);  
+ box-shadow: 0 0 20px 10px rgba(215, 165, 249, 0.7);
  font-family: 'Work Sans', sans-serif;
 width: 80px;
 height: 60px;

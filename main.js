@@ -10,7 +10,11 @@ let  rightLast = document.querySelector(".rightLast")
  setInterval(()=>{
     rightLast.innerHTML = am.textContent
     wami++;
-   
+    if (saati >= 12) {
+        am.textContent = "PM";
+      } else {
+        am.textContent = "AM";
+      }
     if(wami>=60){
         wami = 0;
         wuti ++
@@ -24,11 +28,7 @@ let  rightLast = document.querySelector(".rightLast")
         wuti=0
         wami=0
     }
-    if (saati >= 12) {
-        am.textContent = "PM";
-      } else {
-        am.textContent = "AM";
-      }
+
     p1.innerHTML = saati;
     p2.innerHTML = wuti;
     p3.innerHTML = wami;
