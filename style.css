@@ -25,8 +25,8 @@ section{
 .header{
     color: #ffff;
     font-family: 'Work Sans', sans-serif;
-    font-size: 50px;
-    width: 450px;
+    font-size: 60px;
+    width: 500px;
 }
 .rightLast{
     color: #ffff;
@@ -51,7 +51,7 @@ section{
 }
 .div1{
     
-    background-color:rgb(215,165,249,0.75);
+    background-color:rgb(215,165,249,0.5);
     color: rgb(255,255,255, 1);
     height: 180px;
     width: 200px;
@@ -75,7 +75,7 @@ section{
     
 }
 .div3{
-    background-color:rgb(215,165,249,0.75);
+    background-color:rgb(215,165,249,0.5);
     color: rgb(255,255,255, 1);
     height: 180px;
     width: 200px;
@@ -98,7 +98,7 @@ section{
     font-family: 'Work Sans', sans-serif;
 }
 .div5{
-    background-color:rgb(215,165,249,0.75);
+    background-color:rgb(215,165,249,0.5);
     color: rgb(255,255,255, 1);
     height: 180px;
     width: 200px;
@@ -129,5 +129,5 @@ font-size: 40px;
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top: 145px;
+margin-top: 105px;
 }
