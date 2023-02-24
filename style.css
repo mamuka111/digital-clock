@@ -1,0 +1,21 @@
+/* .img1{
+    width: 100%;
+    height: 100%;
+} */
+section{
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./wallpaperflare.com_wallpaper\ \(2\).jpg)
+}
+.container{
+    width: 900px;
+    height: 600px;
+}
+.header{
+    color: #ffff;
+}
+.rightLast{
+    color: #ffff;
+}
