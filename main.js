@@ -25,9 +25,9 @@ let  rightLast = document.querySelector(".rightLast")
         wami=0
     }
     if (saati >= 12) {
-        am.textContent = "pm";
+        am.textContent = "PM";
       } else {
-        am.textContent = "am";
+        am.textContent = "AM";
       }
     p1.innerHTML = saati;
     p2.innerHTML = wuti;

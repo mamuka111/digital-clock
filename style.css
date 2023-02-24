@@ -7,15 +7,127 @@ section{
     height: 100vh;
     background-position: center;
     background-size: cover;
-    background-image: url(./wallpaperflare.com_wallpaper\ \(2\).jpg)
+    background-image: url(./wallpaperflare.com_wallpaper\ \(4\).jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .container{
     width: 900px;
-    height: 600px;
+    height: 300px;
+    /* border:5px white solid; */
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
 }
 .header{
     color: #ffff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+    width: 450px;
 }
 .rightLast{
     color: #ffff;
+    margin-left: 40px;
+}
+.left{
+    width: 200px;
+    height: 250px;
+
+}
+.bottom{
+    width: 200px;
+    height: 250px;
+    /* margin-left: 200px */
+    
+}
+.right{
+    width: 200px;
+    height: 250px;
+    /* margin-left: 200px */
+ 
+}
+.div1{
+    
+    background-color:rgb(215,165,249,0.75);
+    color: rgb(255,255,255, 1);
+    height: 180px;
+    width: 200px;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 2px;
+}
+.div2{
+    height: 50px;
+    width: 200px;
+    color: rgb(255,255,255, 1);
+    background-color: rgb(184,34,243,0.5);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.div3{
+    background-color:rgb(215,165,249,0.75);
+    color: rgb(255,255,255, 1);
+    height: 180px;
+    width: 200px;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 2px;
+}
+.div4{
+    height: 50px;
+    width: 200px;
+    color: rgb(255,255,255, 1);
+    background-color: rgb(184,34,243,0.5);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+}
+.div5{
+    background-color:rgb(215,165,249,0.75);
+    color: rgb(255,255,255, 1);
+    height: 180px;
+    width: 200px;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 2px;
+}
+.div6{
+    height: 50px;
+    width: 200px;
+    color: rgb(255,255,255, 1);
+    background-color: rgb(184,34,243,0.5);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+}
+.rightLast{
+ background-color: rgb(106,50,159, 0.7);  
+ font-family: 'Work Sans', sans-serif;
+width: 80px;
+height: 60px;
+font-size: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 145px;
 }
